@@ -1,2 +1,2 @@
 # noment
-## pracice 따라하기.
+pracice 따라하기.
